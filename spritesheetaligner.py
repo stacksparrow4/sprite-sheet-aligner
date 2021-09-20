@@ -8,8 +8,6 @@ SCAN_SIZE = 2
 SAMPLE_S_W = 640
 SAMPLE_S_H = 640
 
-MAX_COLS = 10
-
 PADDING = 1
 
 def flood_fill_rect_recurse(alpha, x,y, filled, rect):
